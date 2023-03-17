@@ -1,0 +1,17 @@
+{
+  "name": "joke-attack",
+  "version": "1.0.0",
+  "description": "This bot is for joking with you friends. you are going ro laugh a lot. appreciate each other first :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^3.3.1"
+  }
+}
