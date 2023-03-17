@@ -1,1 +1,2 @@
-"# discord-attackbot" 
+# discord-attackbot
+just for fun
